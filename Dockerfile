@@ -1,2 +1,2 @@
 FROM node:4-onbuild
-EXPOSE 4080
+EXPOSE 8080
