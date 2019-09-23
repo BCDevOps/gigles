@@ -14,6 +14,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "apistatus": "^0.2.0",
-    "restify": "^3.0.1"
+    "restify": "^8.1.0"
   }
 }
